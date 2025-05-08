@@ -1,0 +1,4 @@
+367
+This Caesar Cipher program uses a classic encryption technique where each character in a message is shifted by 3 positions in the ASCII table. It can encrypt or decrypt messages by reading from and writing to text files, converting text to a secure format and then restoring it when needed. Simple, efficient, and ideal for learning basic cryptography.
+
+Hello, World!
