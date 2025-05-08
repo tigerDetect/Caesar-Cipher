@@ -46,6 +46,7 @@ Select 2 (Decrypt) to reverse the process, and the message will be restored to i
 NOTE: After pasting your message in the text file, the amount of characters is usually seen at the lower-left corner of your text editor. Please enter the number of characters at the beginning of the file followed by the message on a new line.
 
 size
+
 message.....
 
 ## Requirements
